@@ -1,0 +1,38 @@
+== Changelog ==
+
+= September-25-2022 :: 0.0.1
+* Initial Release.
+
+= October-02-2022 :: 0.0.2
+* Added get-started.
+* Updated footer link.
+* Updated woocommerce files.
+* Changed theme URLs.
+
+= October-23-2022 :: 0.0.3
+* Added preloader settings.
+* Added Logo Settings.
+* Added scroll-to-top settings.
+
+= November-19-2022 :: 0.0.4
+* Done with prefixing.
+* Updated PHP version.
+
+= December-7-2022 :: 0.0.5
+* Changed get-started.
+* Added links.
+* Added requires at least in style.css
+
+= January-30-2023 :: 0.0.6
+* Added post settings section.
+* Added enable/disable  options for author, comment, post date.
+* Added Blog Post Content Limit option for blog post.
+* Added enable/disable sticky header.
+
+= February-14-2023 :: 0.0.7
+* Added enable/disable  options for single post category.
+* Added enable/disable  options for single post tag.
+
+= March-4-2023 :: 0.0.8
+* Added menu color and menu hover color.
+* Added submenu color , submenu hover color and submenu hover background color.
